@@ -3,8 +3,9 @@
     <title> </title>
  </head>
  <body>
-    my name is anshu babu
-    <h1> this is so beautiful</h1> 
-    
+     <h1> this is so beautiful</h1> 
+    <p> for paragraph writing</p>
+    <p> Lorem ipsum dolor sit amet <br>
+    Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
  </body>   
 </HTML>
